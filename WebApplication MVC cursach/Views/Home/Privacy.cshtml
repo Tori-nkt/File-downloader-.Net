@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Завантажені файли";
+}
+<h1>@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <button type="submit" name="action" style="height: 40px; " class="btn btn-link">Назад</button>
+}
+
+@using (Html.BeginForm("ShowCash", "Home", FormMethod.Post))
+{
+    <br />
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-outline-primary" value="video">відео</button>
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-outline-primary" value="image">фото</button>
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-outline-primary" value="audio">аудіо</button>
+}

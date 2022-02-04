@@ -1,0 +1,75 @@
+﻿
+
+@model List<WebApplication_MVC_cursach.Models.Result>
+
+@{ Html.RenderPartial("Privacy"); }
+
+<br />
+<br />
+@if (Model.Count == 0)
+{
+    <div class="alert alert-info" role="alert">
+        Тут могло б бути щось цікаве..
+    </div>
+}
+else
+{
+    @if (Model[0].ModelType == "video")
+    {
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <script type="text/javascript" src="//s3.spruto.com/embed/player.js"></script>
+                <script class="splayer">var params = { "playlist": [{ "title": "", "posterUrl": "", "video": [{ "url": "@item.Link" }], "duration": 0 }], "uiLanguage": "ru", "width": "320", "height": "180" }; player.embed(params);</script>
+
+                <a href="@item.Link" style="color:blue">@item.Title</a><br />
+                <span style="font-size:15px;color:green">@item.Link</span><br />
+                <span style="color:gray;">@item.Snippet</span>
+
+                <script type="text/javascript" src="//s3.spruto.com/embed/player.js"></script>
+            </div>
+        }
+    }
+    else if (Model[0].ModelType == "audio")
+    {
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <script type="text/javascript" src="//s3.spruto.com/embed/player.js"></script>
+                <script class="splayer">var params = { "playlist": [{ "title": "", "posterUrl": "", "video": [{ "url": "@item.Link" }], "duration": 0 }], "uiLanguage": "ru", "width": "320", "height": "180" }; player.embed(params);</script>
+
+                <a href="@item.Link" style="color:blue">@item.Title</a><br />
+                <span style="font-size:15px;color:green">@item.Link</span><br />
+                <span style="color:gray;">@item.Snippet</span>
+
+                <script type="text/javascript" src="//s3.spruto.com/embed/player.js"></script>
+
+            </div>
+        }
+    }
+    else
+    {
+        <div class="card-columns">
+            @foreach (var item in Model)
+            {
+                <div class="card">
+
+                    <img class="card-img-top" src="@item.Img" style="width:250px" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text"><small class="text-muted">@item.Title</small></p>
+                        <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target=".bd-example-modal-lg-@item.id">відкрити фото</button>
+
+                        <div class="modal fade bd-example-modal-lg-@item.id" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                    <img class="card-img-top" src="@item.Img" style="width:1000px" alt="Card image cap">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    }
+}

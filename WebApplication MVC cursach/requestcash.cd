@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApplication_MVC_cursach.Controllers.HomeController">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAIQQAAAgAAAAAAoQAAAQAABAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication_MVC_cursach.Models.ErrorViewModel">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication_MVC_cursach.Models.Result">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAEAEAAAAAAAAAAAAAABAAAAAAAQgAAAgA=</HashCode>
+      <FileName>Models\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication_MVC_cursach.WorkWithDirectories.Directories">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAMAQAAAAACAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkWithDirectories\Directories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication_MVC_cursach.Program">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication_MVC_cursach.Startup">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm("ShowResults", "Home", FormMethod.Post))
+{
+    <input style="width: 100%;margin-left:auto;margin-right:auto ;border: groove; height: 40px; " class="form-control" id="inputdefault" autofocus="autofocus" type="text" name="search" required />
+    <br />
+    <button type="submit" style="height: 40px; margin-right: 20px;" class="btn btn-outline-primary">Пошук</button>
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-link" value="video">відео</button>
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-link" value="image">фото</button>
+    <button type="submit" name="action" style="height: 40px; margin-right: 20px;" class="btn btn-link" value="audio">аудіо</button>
+
+}

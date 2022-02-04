@@ -1,0 +1,63 @@
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.exe
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.deps.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.runtimeconfig.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.runtimeconfig.dev.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.pdb
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.Views.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\WebApplication MVC cursach.Views.pdb
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\AngleSharp.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\CliWrap.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\NiL.JS.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\libvideo.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\YoutubeExplode.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\YoutubeExplode.Converter.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.csproj.AssemblyReference.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.AssemblyInfoInputs.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.AssemblyInfo.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.csproj.CoreCompileInputs.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.RazorAssemblyInfo.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.RazorAssemblyInfo.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\staticwebassets\WebApplication MVC cursach.StaticWebAssets.Manifest.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\staticwebassets\WebApplication MVC cursach.StaticWebAssets.xml
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication MVC cursach.styles.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.TagHelpers.input.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.TagHelpers.output.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.RazorCoreGenerate.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Home\Choose.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Home\ShowCash.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Home\ShowResults.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.RazorTargetAssemblyInfo.cache
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.RazorTargetAssemblyInfo.cs
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.Views.pdb
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.csproj.CopyComplete
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.pdb
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\WebApplication MVC cursach.genruntimeconfig.cache

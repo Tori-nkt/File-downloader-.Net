@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Result>
+    <id>0</id>
+    <ModelType>video</ModelType>
+    <Title>Jolyne says "Yare Yare Dawa" for the first time - YouTube</Title>
+    <Link>https://www.youtube.com/watch?v=hWUu6uXHLOU</Link>
+    <Snippet>1 груд. 2021 р. ... Jolyne's first "yare yare dawa" JoJo's Bizarre Adventure: Stone Ocean (Japanese: ストーンオーシャン) is the sixth story arc of the ...</Snippet>
+    <Img>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWbdz-f_hcmDFhh8Ip83rfeG-LQXQ35muovR2uokC-DJl9d7AmkMxl2O5O</Img>
+    <selected>false</selected>
+  </Result>
+  <Result>
+    <id>0</id>
+    <ModelType>video</ModelType>
+    <Title>Jolyne says "Yare Yare Dawa" for the first time - YouTube</Title>
+    <Link>https://www.youtube.com/watch?v=hWUu6uXHLOU</Link>
+    <Snippet>1 груд. 2021 р. ... Jolyne's first "yare yare dawa" JoJo's Bizarre Adventure: Stone Ocean (Japanese: ストーンオーシャン) is the sixth story arc of the ...</Snippet>
+    <Img>https://i.ytimg.com/vi/hWUu6uXHLOU/maxresdefault.jpg</Img>
+    <selected>false</selected>
+  </Result>
+  <Result>
+    <id>0</id>
+    <ModelType>video</ModelType>
+    <Title>Adele - Hello - YouTube</Title>
+    <Link>https://www.youtube.com/watch?v=YQHsXMglC9A</Link>
+    <Snippet>22 жовт. 2015 р. ... Listen to "Easy On Me" here: http://Adele.lnk.to/EOMPre-order Adele's new album "30" before its release on November 19: https://www.adele.</Snippet>
+    <Img>https://i.ytimg.com/vi/YQHsXMglC9A/maxresdefault.jpg</Img>
+    <selected>false</selected>
+  </Result>
+</ArrayOfResult>

@@ -1,0 +1,67 @@
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.exe
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.deps.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.runtimeconfig.json
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.pdb
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\AngleSharp.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\CliWrap.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Mvc.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Razor.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Helpers.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Deployment.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.Razor.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.WebPages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Web.Infrastructure.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\NiL.JS.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\System.Text.Encoding.CodePages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\libvideo.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\YoutubeExplode.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\YoutubeExplode.Converter.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.Views.dll
+C:\Users\vikyc\source\repos\WebApplication MVC cursach\WebApplication MVC cursach\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication MVC cursach.Views.pdb
